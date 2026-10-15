@@ -2,7 +2,7 @@
 
 A lightweight portfolio website served by Nginx inside a Docker container.
 
-**Live site:** [add your URL after deployment]
+**Live site:** https://static-portfolio-nginx.onrender.com/
 
 ## Architecture
 HTML, CSS and JavaScript in `site/`, bundled into the official `nginx:alpine`
